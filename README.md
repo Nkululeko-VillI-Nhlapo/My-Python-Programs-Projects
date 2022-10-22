@@ -5,7 +5,7 @@ All the 28 Python programs that I have coded up to date
     - An auction program where multiple bidders can bid for an item, then it returns the highest bidder name and amount.
 2. Advance Calculator 
     - The calculator can perform multiple operations, like addition, subtraction, multiplication, exponentiation, percentage, division, Modullo division and Interger division
-3. Email App
+3. Nmail App
     - A simle email app
 4. Rock paper and Scissors
     - Rock,paper and scissors game but played against the computer
