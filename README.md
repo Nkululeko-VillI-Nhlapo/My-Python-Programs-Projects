@@ -1,5 +1,6 @@
 # My-Python-Programs-Projects
-All the 28 Python programs that I have coded up to date
+# All the 28 Python programs that I have coded up to date
+# Basic Syntax, Conditionals, Iterations, Functions, Lists, Sets, Tuples and String Objects
 
 #My Top 5 Projects
 1. Auction 
